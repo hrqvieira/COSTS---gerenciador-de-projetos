@@ -1,7 +1,6 @@
 {
   "projects": [
     {
-      "0": {},
       "name": "Projeto Teste",
       "budget": "5000",
       "category": {
@@ -13,7 +12,6 @@
       "id": 1
     },
     {
-      "0": {},
       "name": "Meu projeto 3",
       "budget": "15000",
       "category": {
@@ -25,7 +23,6 @@
       "id": 2
     },
     {
-      "0": {},
       "name": "Projeto teste",
       "budget": "20000",
       "category": {
