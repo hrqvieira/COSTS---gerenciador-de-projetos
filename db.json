@@ -11,18 +11,6 @@
       "cost": 0,
       "services": [],
       "id": 1
-    },
-    {
-      "0": {},
-      "name": "asdasd",
-      "budget": "1232",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
     }
   ],
   "categories": [
